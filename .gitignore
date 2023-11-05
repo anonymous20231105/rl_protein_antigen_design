@@ -1,0 +1,7 @@
+/.idea/*
+/data/raw/finetuning_2.pt
+/data/*
+/src/spinup/algos/pytorch/ppo/tensorboard/
+/src/spinup/algos/pytorch/ppo/tensorboard_his/
+/src/spinup/algos/pytorch/ppo/fig_his/
+/src/spinup/algos/pytorch/ppo/para_his/

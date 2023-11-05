@@ -1,0 +1,29 @@
+numpy~=1.24.1
+fair-esm
+fair-esm[esmfold]
+# torch==1.12.1+cu113
+# torchvision==0.13.1+cu113
+# torchaudio==0.12.1
+Bio~=1.5.3
+biotite~=0.36.0
+# dllogger @ git+https://github.com/NVIDIA/dllogger.git
+# openfold @ git+https://github.com/aqlaboratory/openfold.git
+# pytorch_lightning==1.9
+typing_extensions
+
+torch~=1.13.1+cu116
+tqdm~=4.64.1
+requests~=2.28.2
+pandas~=1.5.3
+scipy~=1.9.3
+tensorflow~=2.4.1
+tensorflow-gpu~=2.4.1
+gym~=0.26.2
+joblib~=1.2.0
+matplotlib~=3.6.3
+mpi4py~=3.1.4
+cloudpickle~=2.2.1
+psutil~=5.9.4
+zlib~=1.2.13
+openfold~=1.0.0
+gputil~=1.4.0
